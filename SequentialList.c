@@ -126,7 +126,7 @@ void print_window() {
 }
 
 /**************************  main() **********************************/
-/*int main()
+int main()
 {
 	Sqlist List=init_List();      //ListÉùÃ÷
 	char code;
